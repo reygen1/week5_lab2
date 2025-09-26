@@ -18,3 +18,7 @@ int main () {
 
 
 }
+
+// git add .
+// git commit -m "Updated code with fixes"
+// git push
