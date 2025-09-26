@@ -21,3 +21,9 @@ int main() {
 // git branch -M main
 // git remote add origin https://github.com/reygen1/week5_lab2.git
 // git push -u origin main
+
+
+
+// git add .
+// git commit -m "Updated code with fixes"
+// git push
